@@ -1,3 +1,146 @@
 body{
 	font-family: 'Roboto', sans-serif;
 }
+
+/* FONT SIZES */
+.fontSize1{
+	font-size: 12px;
+}
+.fontSize2{
+	font-size: 14px;
+}
+.fontSize3{
+	font-size: 16px;
+}
+.fontSize4{
+	font-size: 18px;;
+}
+
+/* FONT COLOR */
+.fontColor1{
+	color: white;
+}
+.fontcolor2{
+	color:#253237;
+}
+.fontcolor3{
+	color: #999;
+	
+}
+.fontcolor5{
+	color: #777;
+}
+.fontcolor4{
+	color: #fdd835;
+}
+.fontcolor6{
+	color: #cf2929;
+}
+
+/* alignment */
+.align1{
+	text-align: center;
+}
+
+
+/* Font weight */
+.fontweight1{
+	font-weight:500 ;
+}
+.fontweight2{
+	font-weight:600 ;
+}
+.fontweight3{
+	font-weight:700 ;
+}
+.fontweight4{
+	font-weight 800;
+}
+
+/* Background color */
+ .bgcolor1{
+	 background-color: #4fb68d;
+ }
+
+ /* border radius */
+ .borderradius1{
+	 border-radius: 5px;
+	 border-style: none;
+ }
+
+ /* Margin  */
+ .margin1{
+	 margin: 5px;
+ }
+ .margin2{
+	margin: 10px;
+}
+.margin3{
+	margin: 15px;
+}
+/* margintop */
+
+ .margintop1{
+	 margin-top: 5px;
+ }
+ .margintop2{
+	margin-top: 10px;
+}
+.margintop3{
+	margin-top: 30px;
+}
+
+/* marginbottom */
+.marginbottom1{
+	margin-bottom: 5px;
+}
+.marginbottom2{
+	margin-bottom: 10px;
+}
+.marginbottom3{
+	margin-bottom: 35px;
+}
+/* padding */
+.padding1{
+	padding: 10px;
+}
+.padding2{
+	padding: 15px;
+}
+/* border */
+.border1{
+	border: 1px solid #ebebeb;
+	
+
+}
+.border2{
+	border: 2px solid #4fb68d;
+}
+.borderstyle1{
+	border-style: none;
+}
+
+/* HOMEPAGE CSS START HERE */
+
+.pop_cat_Block{
+	background-image: url("../img/thumb-1.jpg");
+	background-position: 100%;
+	background-size: 100% 100%;
+	padding: 50px;
+}
+.textdecoration1{
+	text-decoration: line-through;
+}
+.textdecoration2{
+	text-decoration: none;
+}
+.width1{
+	width: 80%; 
+
+}
+.blocksize1{
+	block-size: 91%;
+}
+.width2{
+	width: 125%;
+}
